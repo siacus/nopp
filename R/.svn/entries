@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="12"
+   name=""
+   committed-date="2017-11-02T15:26:02.675541Z"
+   url="svn+ssh://iacus@r-forge.r-project.org/svnroot/nopp/pkg/nopp/R"
+   last-author="iacus"
+   kind="dir"
+   uuid="edb9625f-4e0d-4859-8d74-9fd3b1da38cb"
+   repos="svn+ssh://iacus@r-forge.r-project.org/svnroot/nopp"
+   revision="12"/>
+<entry
+   committed-rev="12"
+   name="equilibrium.R"
+   text-time="2016-07-05T21:01:04.000000Z"
+   committed-date="2017-11-02T15:26:02.675541Z"
+   checksum="64d89dd6d82c47aa971187858be512a2"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T07:07:27.000000Z"/>
+<entry
+   committed-rev="12"
+   name="print.nash.eq.R"
+   text-time="2016-07-06T09:10:07.000000Z"
+   committed-date="2017-11-02T15:26:02.675541Z"
+   checksum="13b52e914ece5808ce721d77c44df401"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T07:07:27.000000Z"/>
+<entry
+   committed-rev="2"
+   name="noppNews.R"
+   text-time="2014-08-25T07:07:27.000000Z"
+   committed-date="2012-10-17T10:30:16.384822Z"
+   checksum="245a2b8024b6b2b3298acdfc9b651d5a"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T07:07:27.000000Z"/>
+<entry
+   committed-rev="12"
+   name="plot.nash.eq.R"
+   text-time="2016-07-23T10:16:46.000000Z"
+   committed-date="2017-11-02T15:26:02.675541Z"
+   checksum="453aab9c3d41d4c13cd2f38bc79ae334"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T07:07:27.000000Z"/>
+<entry
+   committed-rev="9"
+   name="zzz.R"
+   text-time="2014-08-25T09:27:15.000000Z"
+   committed-date="2014-08-25T09:27:24.143437Z"
+   checksum="42276c35b699fd1defb4a6d52d26cd5d"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T07:07:27.000000Z"/>
+</wc-entries>

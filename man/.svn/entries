@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="12"
+   name=""
+   committed-date="2017-11-02T15:26:02.675541Z"
+   url="svn+ssh://iacus@r-forge.r-project.org/svnroot/nopp/pkg/nopp/man"
+   last-author="iacus"
+   kind="dir"
+   uuid="edb9625f-4e0d-4859-8d74-9fd3b1da38cb"
+   repos="svn+ssh://iacus@r-forge.r-project.org/svnroot/nopp"
+   revision="12"/>
+<entry
+   committed-rev="2"
+   name="italy2006.lin.Rd"
+   text-time="2014-08-25T07:07:27.000000Z"
+   committed-date="2012-10-17T10:30:16.384822Z"
+   checksum="4c84f2509a072d5c207dce737a1b3eba"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T07:07:27.000000Z"/>
+<entry
+   committed-rev="2"
+   name="italy2006.wide.Rd"
+   text-time="2014-08-25T07:07:27.000000Z"
+   committed-date="2012-10-17T10:30:16.384822Z"
+   checksum="84482466d4e29b2cc09c35e3da0e0561"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T07:07:27.000000Z"/>
+<entry
+   committed-rev="12"
+   name="nopp-package.Rd"
+   text-time="2017-11-02T15:24:08.000000Z"
+   committed-date="2017-11-02T15:26:02.675541Z"
+   checksum="dccb2b66911632061083b64b8babd5e9"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T07:07:27.000000Z"/>
+<entry
+   committed-rev="12"
+   name="equilibrium.Rd"
+   text-time="2017-11-02T15:25:05.000000Z"
+   committed-date="2017-11-02T15:26:02.675541Z"
+   checksum="4bcf69b924ef02b4ff576772e3e7eca8"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T07:07:27.000000Z"/>
+<entry
+   committed-rev="2"
+   name="noppNews.Rd"
+   text-time="2014-08-25T07:07:27.000000Z"
+   committed-date="2012-10-17T10:30:16.384822Z"
+   checksum="f2d9f7306b58b3971304ed28660d2d46"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T07:07:27.000000Z"/>
+<entry
+   committed-rev="2"
+   name="italy2006.Rd"
+   text-time="2014-08-25T07:07:27.000000Z"
+   committed-date="2012-10-17T10:30:16.384822Z"
+   checksum="b6af5657257691637160372beaf7719c"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T07:07:27.000000Z"/>
+<entry
+   committed-rev="12"
+   name="plot.nash.eq.Rd"
+   text-time="2017-11-02T15:24:34.000000Z"
+   committed-date="2017-11-02T15:26:02.675541Z"
+   checksum="1dbc809d5e9c6f903c1241bac7453d1c"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T07:07:27.000000Z"/>
+</wc-entries>

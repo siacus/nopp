@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="12"
+   name=""
+   committed-date="2017-11-02T15:26:02.675541Z"
+   url="svn+ssh://iacus@r-forge.r-project.org/svnroot/nopp/pkg/nopp/inst"
+   last-author="iacus"
+   kind="dir"
+   uuid="edb9625f-4e0d-4859-8d74-9fd3b1da38cb"
+   repos="svn+ssh://iacus@r-forge.r-project.org/svnroot/nopp"
+   revision="12"/>
+<entry
+   name="doc"
+   kind="dir"/>
+<entry
+   committed-rev="12"
+   name="NEWS"
+   text-time="2016-07-23T10:05:09.000000Z"
+   committed-date="2017-11-02T15:26:02.675541Z"
+   checksum="225b14859ee3d9d980d47d55a961d1af"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T07:07:29.000000Z"/>
+</wc-entries>

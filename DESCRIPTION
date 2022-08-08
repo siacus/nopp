@@ -1,0 +1,16 @@
+Package: nopp
+Type: Package
+Title: Nash Optimal Party Positions
+Version: 1.1.3
+Author: Luigi Curini, Stefano M. Iacus
+Maintainer: Stefano M. Iacus <siacus@iq.harvard.edu>
+Description: Estimation of party/candidate ideological positions
+             that correspond to a Nash equilibrium along a 
+             one-dimensional space as in Curini and Iacus (2017) <doi:10.18637/jss.v081.i11>.
+License: GPL (>= 2)
+Depends: R (>= 2.10), mlogit, MASS
+NeedsCompilation: no
+
+
+
+

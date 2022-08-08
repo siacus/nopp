@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="12"
+   name=""
+   committed-date="2017-11-02T15:26:02.675541Z"
+   url="svn+ssh://iacus@r-forge.r-project.org/svnroot/nopp/pkg/nopp/inst/doc"
+   last-author="iacus"
+   kind="dir"
+   uuid="edb9625f-4e0d-4859-8d74-9fd3b1da38cb"
+   repos="svn+ssh://iacus@r-forge.r-project.org/svnroot/nopp"
+   revision="12"/>
+<entry
+   committed-rev="12"
+   name="nopp.pdf"
+   text-time="2016-07-23T12:56:15.000000Z"
+   committed-date="2017-11-02T15:26:02.675541Z"
+   checksum="351600480f307bdc582808bc49afa2c1"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T09:04:42.000000Z"/>
+</wc-entries>

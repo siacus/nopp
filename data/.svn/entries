@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2012-10-17T10:30:16.384822Z"
+   url="svn+ssh://iacus@r-forge.r-project.org/svnroot/nopp/pkg/nopp/data"
+   last-author="iacus"
+   kind="dir"
+   uuid="edb9625f-4e0d-4859-8d74-9fd3b1da38cb"
+   repos="svn+ssh://iacus@r-forge.r-project.org/svnroot/nopp"
+   revision="12"/>
+<entry
+   committed-rev="2"
+   name="italy2006.rda"
+   text-time="2014-08-25T07:07:27.000000Z"
+   committed-date="2012-10-17T10:30:16.384822Z"
+   checksum="f928455f1cd503737e1c21d38d0ead1f"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T07:07:27.000000Z"/>
+<entry
+   committed-rev="2"
+   name="italy2006.lin.rda"
+   text-time="2014-08-25T07:07:27.000000Z"
+   committed-date="2012-10-17T10:30:16.384822Z"
+   checksum="824793ea3f305cdf7a592e551b25e4a0"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T07:07:27.000000Z"/>
+<entry
+   committed-rev="2"
+   name="italy2006.wide.rda"
+   text-time="2014-08-25T07:07:27.000000Z"
+   committed-date="2012-10-17T10:30:16.384822Z"
+   checksum="018dd9226d6d8f91196f841a43e0f496"
+   last-author="iacus"
+   kind="file"
+   prop-time="2014-08-25T07:07:27.000000Z"/>
+</wc-entries>
